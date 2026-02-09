@@ -22,6 +22,10 @@ if (isAuth()) {
 </head>
 <body>
 <div class="container mt-4">
+        <!-- Логотип -->
+        <div class="text-center mb-4">
+            <img src="assets/img/logo.png" alt="Логотип Мой Не Сам" class="logo">
+        </div>
     <!-- Слайдер -->
     <div class="slider-wrapper">
         <div class="slider-container">
